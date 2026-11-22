@@ -1,0 +1,5 @@
+.env
+.env.*
+*keypair*.json
+credentials
+node_modules/
